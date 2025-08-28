@@ -1,0 +1,12 @@
+{
+  "name": "reqres-cypress-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --spec cypress/e2e/api/reqres.cy.js"
+  },
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}

@@ -1,1 +1,0 @@
-# reqres-cypress-api
